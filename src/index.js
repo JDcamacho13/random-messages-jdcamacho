@@ -7,6 +7,7 @@ const messages = [
     'David',
     'Daniela',
     'Miguel',
+    'Jesus',
 ]
 
 const randomMsg = () => {
